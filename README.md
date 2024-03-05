@@ -1,6 +1,6 @@
 # Servidor FTP + Vagrant 🎥
 
-[![FTP Sem Mistérios: Descomplicando a Configuração do Seu Servidor FTP no Linux Ubuntu](https://i3.ytimg.com/vi/BeamdrH-YEA/maxresdefault.jpg 'Assista ao vídeo')](https://youtu.be/dvfp9z2h9Ek)
+[![FTP Sem Mistérios: Descomplicando a Configuração do Seu Servidor FTP no Linux Ubuntu](https://i.ytimg.com/vi/dvfp9z2h9Ek/maxresdefault.jpg 'Assista ao vídeo')](https://youtu.be/dvfp9z2h9Ek)
 
 Bem-vindo ao repositório do projeto Vagrant desenvolvido exclusivamente para o vídeo **FTP Sem Mistérios: Descomplicando a Configuração do Seu Servidor FTP no Linux Ubuntu**! O vídeo trata da configuração de um servidor FTP (File Transfer Protocol) usando Ubuntu, destacando não apenas o processo de instalação e configuração mas também considerações de segurança e alternativas ao FTP. 🌐✨
 
